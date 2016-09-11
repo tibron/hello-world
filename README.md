@@ -1,2 +1,6 @@
 # hello-world
-hello-world tutorial
+ 
+First commit ever made on GitHub
+
+--Best regards,
+tibron!
